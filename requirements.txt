@@ -1,0 +1,10 @@
+Flask==3.1.0
+flask-cors==5.0.0
+langchain==0.3.17
+python-dotenv==1.0.1
+gunicorn
+langchain-anthropic==0.3.5
+langchain-openai==0.3.3
+langchain-community==0.3.16
+faiss-cpu==1.10.0
+flask-talisman==1.1.0
